@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UploadImage</string>
+    <string name="click_photo">Click Photo</string>
+    <string name="selected_photo">Selected Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="internet_not_available">Internet not available</string>
+    <string name="ok">Ok</string>
+</resources>

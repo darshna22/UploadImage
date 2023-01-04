@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="_10sdp">10sp</dimen>
+    <dimen name="_15sdp">15sp</dimen>
+    <dimen name="_30sdp">30sp</dimen>
+    <dimen name="_8sdp">8sp</dimen>
+    <dimen name="image_size">200dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="size_18">18sp</dimen>
+    <string name="app_name">UploadImage</string>
+    <string name="click_photo">Click Photo</string>
+    <string name="internet_not_available">Internet not available</string>
+    <string name="ok">Ok</string>
+    <string name="selected_photo">Selected Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <style name="Theme.UploadImage" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

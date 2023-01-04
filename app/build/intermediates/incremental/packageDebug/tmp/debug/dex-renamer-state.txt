@@ -1,0 +1,10 @@
+#Tue Dec 27 16:55:15 IST 2022
+base.2=C\:\\Users\\c5141506\\Videos\\UploadImage\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+path.2=15/classes.dex
+base.1=C\:\\Users\\c5141506\\Videos\\UploadImage\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.1=0/classes.dex
+base.0=C\:\\Users\\c5141506\\Videos\\UploadImage\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
